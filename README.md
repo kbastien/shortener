@@ -1,4 +1,4 @@
 shortener
 =========
 
-URL Shortener using Sinatra and Ruby
+URL Shortener using Sinatra and Redis
